@@ -23,9 +23,7 @@ const { NotImplementedError } = require('../extensions/index.js');
       }
     } 
   }
-  if(count == 0) {
-   return `0`
- } else {
+ {
  return count }
  
 }
